@@ -1,0 +1,10 @@
+# Imported packages, not a tested or version-pinned environment.
+matplotlib
+numpy
+pandas
+requests
+rope-tensorflow
+sentencepiece
+tensorflow
+tensorflow-datasets
+tensorflow-text
