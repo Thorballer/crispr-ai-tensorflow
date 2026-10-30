@@ -1,6 +1,6 @@
 {
   "project": "crispr-ai-tensorflow",
-  "packaging_note": "Original source downloaded from the authenticated Kaggle account; code not rewritten. Documentation added for portfolio organization. Downloaded Kaggle notebooks generally omit executed outputs. Last run timestamps are source metadata, not authorship or publication dates.",
+  "packaging_note": "Original source and saved outputs retained in the pre-cleanup Git history and linked sources. Published notebooks have comment and formatting cleanup only; executable ASTs, outputs, metadata, and cell order were checked unchanged. Training was not rerun.",
   "sources": [
     {
       "file": "notebooks/science-fair-gene-mutation.ipynb",
@@ -9,9 +9,12 @@
       "source_id": 94064501,
       "last_run_time": "2025-12-07 19:31:13.473000",
       "original_sha256": "5283ee1c15ca56ea8a05872e6fddbcdcd11a0d501243380f291e8b4dce25c195",
-      "published_sha256": "5283ee1c15ca56ea8a05872e6fddbcdcd11a0d501243380f291e8b4dce25c195",
+      "published_sha256": "7693c66a17c332a38dd62b92325a66c006dce0f103beed8aff3660306a3f3300",
       "redactions": [],
-      "executed_outputs_present": false
+      "executed_outputs_present": false,
+      "pre_cleanup_commit": "36b6cb177aaf99b135aef1fbca711e3ad3605c24",
+      "pre_cleanup_url": "https://github.com/Thorballer/crispr-ai-tensorflow/blob/36b6cb177aaf99b135aef1fbca711e3ad3605c24/notebooks/science-fair-gene-mutation.ipynb",
+      "presentation_edits": "Comments and whitespace only; executable AST and saved outputs unchanged."
     },
     {
       "file": "notebooks/tokenizer-dna-mutations.ipynb",
@@ -20,9 +23,12 @@
       "source_id": 94057332,
       "last_run_time": "2025-12-01 16:09:40.003000",
       "original_sha256": "e87be20b001bfd0f24c0b8624392a029db0036e1173f9a6bfe64972bb9a8c19b",
-      "published_sha256": "e87be20b001bfd0f24c0b8624392a029db0036e1173f9a6bfe64972bb9a8c19b",
+      "published_sha256": "123e576626c6156bf88c3da582abb6a9ec4d18b39a1aafb74908e3f3c29e364f",
       "redactions": [],
-      "executed_outputs_present": false
+      "executed_outputs_present": false,
+      "pre_cleanup_commit": "36b6cb177aaf99b135aef1fbca711e3ad3605c24",
+      "pre_cleanup_url": "https://github.com/Thorballer/crispr-ai-tensorflow/blob/36b6cb177aaf99b135aef1fbca711e3ad3605c24/notebooks/tokenizer-dna-mutations.ipynb",
+      "presentation_edits": "Comments and whitespace only; executable AST and saved outputs unchanged."
     },
     {
       "file": "notebooks/gene-dataset.ipynb",
@@ -31,9 +37,12 @@
       "source_id": 91949877,
       "last_run_time": "2025-09-13 14:30:21.790000",
       "original_sha256": "07c345d5150c562bc70a34ef60e040e58d75d8c78b6ca5e4d7edee7e4d676f22",
-      "published_sha256": "07c345d5150c562bc70a34ef60e040e58d75d8c78b6ca5e4d7edee7e4d676f22",
+      "published_sha256": "a785066ac3ac1caa16172114942401dd63f578b44e5ac1ee8a47797926fe0145",
       "redactions": [],
-      "executed_outputs_present": false
+      "executed_outputs_present": false,
+      "pre_cleanup_commit": "36b6cb177aaf99b135aef1fbca711e3ad3605c24",
+      "pre_cleanup_url": "https://github.com/Thorballer/crispr-ai-tensorflow/blob/36b6cb177aaf99b135aef1fbca711e3ad3605c24/notebooks/gene-dataset.ipynb",
+      "presentation_edits": "Comments and whitespace only; executable AST and saved outputs unchanged."
     },
     {
       "file": "notebooks/science-fair-function-to-protein.ipynb",
@@ -42,9 +51,12 @@
       "source_id": 92100892,
       "last_run_time": "2025-09-16 01:58:25.237000",
       "original_sha256": "0c97e720340fc1acca150bca099724ebe430ee67a8b62c16793a856fa5e6e538",
-      "published_sha256": "0c97e720340fc1acca150bca099724ebe430ee67a8b62c16793a856fa5e6e538",
+      "published_sha256": "ce6f5fdc510b376218e201e45d8469b56d0ddec7d2dfc2342d690508f32dc2d7",
       "redactions": [],
-      "executed_outputs_present": false
+      "executed_outputs_present": false,
+      "pre_cleanup_commit": "36b6cb177aaf99b135aef1fbca711e3ad3605c24",
+      "pre_cleanup_url": "https://github.com/Thorballer/crispr-ai-tensorflow/blob/36b6cb177aaf99b135aef1fbca711e3ad3605c24/notebooks/science-fair-function-to-protein.ipynb",
+      "presentation_edits": "Comments and whitespace only; executable AST and saved outputs unchanged."
     },
     {
       "file": "notebooks/science-fair-protein-to-process.ipynb",
@@ -53,9 +65,12 @@
       "source_id": 91790700,
       "last_run_time": "2025-09-13 20:19:36.990000",
       "original_sha256": "93c6f62fae4eb491d38d3f666748fe6beedcf33e280cb4152e6bac0006deac3f",
-      "published_sha256": "93c6f62fae4eb491d38d3f666748fe6beedcf33e280cb4152e6bac0006deac3f",
+      "published_sha256": "d828ccb9ca1bc76e2d91fcbb58a3e51fdbf6a6121a0a4e2c1d52e424cc97bc90",
       "redactions": [],
-      "executed_outputs_present": false
+      "executed_outputs_present": false,
+      "pre_cleanup_commit": "36b6cb177aaf99b135aef1fbca711e3ad3605c24",
+      "pre_cleanup_url": "https://github.com/Thorballer/crispr-ai-tensorflow/blob/36b6cb177aaf99b135aef1fbca711e3ad3605c24/notebooks/science-fair-protein-to-process.ipynb",
+      "presentation_edits": "Comments and whitespace only; executable AST and saved outputs unchanged."
     }
   ]
 }

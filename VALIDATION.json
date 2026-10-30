@@ -4,5 +4,15 @@
   "structure": "pass",
   "hashes": "pass",
   "credential_scan": "pass",
-  "syntax_issues": []
+  "syntax_issues": [],
+  "comment_cleanup": {
+    "notebooks_reviewed": 5,
+    "notebooks_changed": 5,
+    "comments_before": 177,
+    "comments_after": 85,
+    "executable_ast": "identical cell-by-cell after IPython transformation",
+    "outputs_metadata_markdown": "unchanged",
+    "structure_and_compile": "pass",
+    "training_rerun": false
+  }
 }
